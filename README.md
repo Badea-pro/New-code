@@ -5,10 +5,9 @@ To start the app
 # First open terminal 
 in type 'npm install'
 
-# Then go to cmd and type 'C:\Users\Badea\Desktop\login-and-register-mern-master'
-and type nodemon index.js
+# Then type nodemon index.js
 
-# Second Step open terminal 
+# Second Step open new  terminal 
 Type 'cd login-and-register-frontend'
 then type 'npm install' 
 
