@@ -1,4 +1,4 @@
-# Git clone 
+# To git clone Type "git clone git@github.com:Badea-pro/New-code.git"
 
 
 # Login & Register page |
